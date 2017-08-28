@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "devDependencies": {
+        "gulp": "3.9.0"
+    },
+    "dependencies": {
+        "laravel-elixir": "3.2.8",
+        "bootstrap-sass": "3.3.5"
+    },
+    "scripts": {
+        "start": "gulp; gulp watch"
+    }
+}
